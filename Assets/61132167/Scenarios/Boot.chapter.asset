@@ -241,7 +241,7 @@ MonoBehaviour:
     - rowIndex: 1
       debugIndex: 1
       strings:
-      - "\u6559\u5BA4"
+      - "\u80CC\u666F\u305D\u306E1"
       - Bg
       - 
       - 
@@ -255,7 +255,7 @@ MonoBehaviour:
       debugInfo: 
     name: Assets/61132167/Scenarios/61132167.xls:Texture
     type: 1
-    textLength: 129
+    textLength: 132
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: 6dde177bd0858054bb1a4f37bd5237b2, type: 3}
   - rows:
